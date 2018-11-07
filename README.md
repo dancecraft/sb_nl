@@ -19,3 +19,7 @@ Natural Language, Chatbots, etc.
 - Some guides how to connect stuff:
  https://www.youtube.com/watch?v=MYwN_F2ej8U
 
+- http://rase.com Rasa, https://www.youtube.com/watch?v=0hZay4KSLFw
+  They are claiming that they are as good as LUIS and DialogFlow
+
+- Word vectors visualized http://projector.tensorflow.org/
