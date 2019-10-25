@@ -2,15 +2,10 @@
 
 Natural Language, Chatbots, etc.
 
-
-
-
-
-
-
-
-
 ## Misc links
+
+- The Google ML repo with the samples for audio recognition APIs, etc:
+  https://github.com/GoogleCloudPlatform/cloudml-samples.git
 
 - Chat bot comparisons: https://chatbotsjournal.com/25-chatbot-platforms-a-comparative-table-aeefc932eaff
 
